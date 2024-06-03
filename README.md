@@ -1,5 +1,5 @@
 ### Olá 👋
-Me chamo Bruno, trabalho como desenvolvedor web fullstack desde meus 19 anos, e estudo sobre desenvolvimento desde meus 17. Atualmente estou sou graduando em engenharia elétrica na Unicamp
+Me chamo Bruno, trabalho como desenvolvedor web fullstack desde meus 19 anos, e estudo sobre desenvolvimento desde meus 17. Atualmente sou graduando em engenharia elétrica na Unicamp
 
 <p align="center">
   <a href="https://brunovbsilva.github.io/portfolio/"><img src="https://img.shields.io/badge/-Github.io-24292e?logo=Github&logoColor=white&link=https://brunovbsilva.github.io/portfolio/"></a>
